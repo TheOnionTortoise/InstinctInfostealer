@@ -5,6 +5,8 @@
 
 The primary goal of this project is to showcase the potential risks of UI Automation when misused and to raise awareness about the importance of securing browser interactions against such attacks.
 
+<img width="1249" height="515" alt="image (20)" src="https://github.com/user-attachments/assets/a7be23b6-4e6a-4864-b304-ed7ba0efb0f7" />
+
 ---
 
 ## Features
