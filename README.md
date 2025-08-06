@@ -1,13 +1,18 @@
 # Instinct Infostealer
 
+![download (1)](https://github.com/user-attachments/assets/75ae6c08-d5f5-44d4-945d-2ef8317c8436)
+
+
 ## Overview
 **Instinct Infostealer** is a **Proof of Concept (PoC)** demonstrating how **UI Automation** can be abused by threat actors to harvest credentials from browsers while evading Endpoint Detection and Response (EDR) systems. This tool leverages Microsoft's **UI Automation** framework to monitor and interact with web browser elements, focusing on password fields and form inputs.
 
 The primary goal of this project is to showcase the potential risks of UI Automation when misused and to raise awareness about the importance of securing browser interactions against such attacks.
 
-<img width="1249" height="515" alt="image (20)" src="https://github.com/user-attachments/assets/a7be23b6-4e6a-4864-b304-ed7ba0efb0f7" />
 
 ---
+
+<img width="1249" height="515" alt="image (20)" src="https://github.com/user-attachments/assets/8ac93bfc-0b12-4ca6-a695-3675657cd2e5" />
+
 
 ## Features
 1. **Credential Harvesting**:
