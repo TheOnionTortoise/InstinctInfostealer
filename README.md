@@ -1,7 +1,7 @@
-# Universal Web Monitor
+# Instinct Infostealer
 
 ## Overview
-**Universal Web Monitor** is a **Proof of Concept (PoC)** demonstrating how **UI Automation** can be abused by threat actors to harvest credentials from browsers while evading Endpoint Detection and Response (EDR) systems. This tool leverages Microsoft's **UI Automation** framework to monitor and interact with web browser elements, focusing on password fields and form inputs.
+**Instinct Infostealer** is a **Proof of Concept (PoC)** demonstrating how **UI Automation** can be abused by threat actors to harvest credentials from browsers while evading Endpoint Detection and Response (EDR) systems. This tool leverages Microsoft's **UI Automation** framework to monitor and interact with web browser elements, focusing on password fields and form inputs.
 
 The primary goal of this project is to showcase the potential risks of UI Automation when misused and to raise awareness about the importance of securing browser interactions against such attacks.
 
