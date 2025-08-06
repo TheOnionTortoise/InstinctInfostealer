@@ -54,7 +54,7 @@ The primary goal of this project is to showcase the potential risks of UI Automa
 ## Installation
 1. **Clone the Repository**:
 
-##Usage
+## Usage
 
 The script is very easy to use since it's only a proof of concept. Just execute the script and when using your browser to sign into (Most websites though not all) it will copy the username and passwords entered into your broowser and will display them in your terminal. 
 
